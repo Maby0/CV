@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Noughts and Crosses**      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
+| [**Noughts and Crosses**](https://github.com/Maby0/Noughts-and-Crosses)      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
 
 ## Work Experience
 
@@ -79,7 +79,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Competitive gamer (reached top 1% of European players on multiple games)
-Footballer
-Guitarist
-Rank 4kyu on CodeWars since February 2021 and still climbing, hoping to one day start competitive programming.
+- Competitive gamer (reached top 1% of European players on multiple games)
+- Footballer
+- Guitarist
+- CodeWars (currently rank 4kyu since starting in February 2021)
