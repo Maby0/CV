@@ -6,8 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Noughts and Crosses**      | Classic Noughts   | HTML, CSS,        |
-|                              | and Crosses game. | JavaScript        |
+| **Noughts and Crosses**      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
 
 ## Work Experience
 
