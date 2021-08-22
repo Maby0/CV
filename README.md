@@ -1,4 +1,4 @@
-## Your Name
+## Mabon ap Gwyn
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -6,18 +6,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Noughts and Crosses**      | Classic Noughts   | HTML, CSS,        |
+|                              | and Crosses game. | JavaScript        |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Arad Research** (2018 - present)  
+_Administrative Officer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
+**Treganna Primary School** (2017 to 2018)  
 _Your job title_
+
+**Professional Musician** (2016 to 2017)
+_Guitarist for professional singer_
 
 - Any experience relevent to software development
 
@@ -62,11 +65,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Aberystwyth University (2012 to 2016)
 
-- Subject, any specialisms
-- Grade
+- MSc Environmental Change, Impact, and Adaptation
+- Pass
 - Other cool stuff
+
+- BSc Geography
+- 2:1
 
 #### Any other qualifications
 
@@ -74,4 +80,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Competitive gamer (reached top 1% of European players on multiple games)
+Footballer
+Guitarist
+Rank 4kyu on CodeWars since February 2021 and still climbing, hoping to one day start competitive programming.
