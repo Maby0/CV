@@ -67,11 +67,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Aberystwyth University (2012 to 2016)
 
 - MSc Environmental Change, Impact, and Adaptation
-- Pass
-- Other cool stuff
+- I produced a dissertation under the tuition of Professor Mark Whitehead on psychological barriers inhibiting effective climate change mitigation, in which I achieved a Merit mark.
+- Two modules required in-depth use of Microsoft Excel, constructing macros on Visual Basic for Applications (VBA) in order to deal with extensive data sets. I found both modules exceptionally rewarding and have been using a variety of the techniques learned here throughout my current employment. 
 
 - BSc Geography
 - 2:1
+- The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
 #### Any other qualifications
 
