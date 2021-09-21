@@ -1,5 +1,8 @@
 ## Mabon ap Gwyn
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0)](https://github.com/Maby0/github-readme-stats)
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
@@ -76,7 +79,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Completed Udemy courses on Python programming.
 
 ## Hobbies
 
