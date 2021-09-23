@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Proficient in Ruby, SQL learning JavaScript and Python. Strong believer in following a clean and precise Test Driven Development method. 
 
 ## Projects
 
@@ -16,44 +16,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 _Administrative Officer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
+- Gained in-depth knowledge of MS Excel incorporating the use of VBA macros to streamline data handling and formatting.
+- Conducted a multitude of interviews over the phone playing a key part in project data acquisition.
+- Written methodology chapters and literature reviews for evaluation reports prepared for large-scale clients such as the Welsh Government.
+- Constructed surveys using various software packages with intricate integrated skip logics.
+- Mediated complex discussions between multiple professionals in line with a commissioned project.
 
 **Treganna Primary School** (2017 to 2018)  
-_Your job title_
+_Learning Support Assistant_
 
-**Professional Musician** (2016 to 2017)
+**Professional Musician** (2016 to 2017) 
 _Guitarist for professional singer_
 
 - Any experience relevent to software development
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
