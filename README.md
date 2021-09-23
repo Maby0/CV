@@ -58,7 +58,8 @@ Completed Udemy courses on Python programming.
 
 ## Hobbies
 
+- CodeWars (currently rank 4kyu since starting in February 2021)
 - Competitive gamer (reached top 1% of European players on multiple games)
 - Footballer
 - Guitarist
-- CodeWars (currently rank 4kyu since starting in February 2021)
+
