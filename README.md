@@ -16,7 +16,6 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 **Arad Research** (2018 - present)  
 _Administrative Officer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 - Gained in-depth knowledge of MS Excel incorporating the use of VBA macros to streamline data handling and formatting.
 - Conducted a multitude of interviews over the phone playing a key part in project data acquisition.
 - Written methodology chapters and literature reviews for evaluation reports prepared for large-scale clients such as the Welsh Government.
@@ -28,8 +27,6 @@ _Learning Support Assistant_
 
 **Professional Musician** (2016 to 2017) 
 _Guitarist for professional singer_
-
-- Any experience relevent to software development
 
 
 ## Education
