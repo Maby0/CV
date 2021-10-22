@@ -8,6 +8,7 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Notes App**](https://github.com/Maby0/notesApp) | Single page webapp that stores notes in browser local storage | HTML, CSS, Pure Javascript |
 | [**Noughts and Crosses**](https://github.com/Maby0/Noughts-and-Crosses)      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
 
 ## Work Experience
