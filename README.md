@@ -8,6 +8,7 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Acebook**](https://github.com/Maby0/acebook) | Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile). | Ruby on Rails, Postgresql |
 | [**Notes App**](https://github.com/Maby0/notesApp) | Single page webapp that stores notes in browser local storage. | HTML, CSS, Pure Javascript (no libraries/frameworks used) |
 | [**Noughts and Crosses**](https://github.com/Maby0/Noughts-and-Crosses)      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
 
@@ -31,7 +32,7 @@ _Guitarist for professional singer_
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -40,7 +41,7 @@ _Guitarist for professional singer_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Aberystwyth University (2012 to 2016)
+### Aberystwyth University (2012 to 2016)
 
 **MSc Environmental Change, Impact, and Adaptation**
 - I produced a dissertation under the tuition of Professor Mark Whitehead on psychological barriers inhibiting effective climate change mitigation, in which I achieved a Merit mark.
@@ -50,7 +51,7 @@ _Guitarist for professional singer_
 - 2:1
 - The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
-#### Any other qualifications
+### Any other qualifications
 
 Completed Udemy courses on Python programming.
 
