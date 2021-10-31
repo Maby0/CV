@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
 
-An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Proficient in Ruby, SQL, and currently learning JavaScript and Python. Strong believer in following a clean and precise Test Driven Development method. 
+An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Proficient in JavaScript, Ruby, SQL, and currently learning Python. Well versed in following a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. 
 
 ## Projects
 
