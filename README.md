@@ -10,7 +10,9 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Acebook**](https://github.com/Maby0/acebook) | Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile). | Ruby on Rails, Postgresql |
+| [**Kusari**](https://github.com/EMDevelop/Kusari) | Cryptocurrency wallet viewer. Draws on live prices and references them against a user's wallet to bring up-to-date portfolio values. Also tracks the current top performing cryptos. |  React, SCSS, Django, PostgreSQL, Covalent, CoinGecko, Web3, Moralis,
+Blockcypher, CryptoCompare |
+| [**Acebook**](https://github.com/Maby0/acebook) | Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile). | Ruby on Rails, Postgresql, Heroku |
 | [**Notes App**](https://github.com/Maby0/notesApp) | Single page webapp that stores notes in browser local storage. | HTML, CSS, Pure Javascript (no libraries/frameworks used) |
 | [**Noughts and Crosses**](https://github.com/Maby0/Noughts-and-Crosses)      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
 
