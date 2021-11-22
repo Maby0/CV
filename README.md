@@ -16,11 +16,10 @@
 
 Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
 
-### Navigation
-
 [About Me](#about-me) | [Projects](#projects) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 
-  
+
+
 ## About Me
 
 An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with industry standard experience of working on large-scale projects and meeting client deadlines.
