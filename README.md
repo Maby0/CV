@@ -14,6 +14,8 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 | [**Acebook**](https://github.com/Maby0/acebook) | Social media app inspired by Facebook. Comments and likes functionality along with personal user 'wall' (profile). | Ruby on Rails, PostgreSQL, Heroku |
 | [**Notes App**](https://github.com/Maby0/notesApp) | Single page webapp that stores notes in browser local storage. | HTML, CSS, Pure Javascript (no libraries/frameworks used) |
 | [**Noughts and Crosses**](https://github.com/Maby0/Noughts-and-Crosses)      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
+| [**Tech test: Bank**](https://github.com/Maby0/bankTechTest) | A tech test undertaken to showcase clean code that logs deposits and withdrawals from a bank account. | JavaScript |
+| [**Tech test: Gilded Rose**](https://github.com/Maby0/gildedRoseTechTest) | A tech test aimed to test ability to refactor legacy code, increasing its readability and ease of implementation. The code is designed to update the quality of items that exist in a shop. | JavaScript |
 
 ## Work Experience
 
