@@ -50,19 +50,9 @@ Have a look below for a better idea of what I've gotten up to during my time on 
 | [**Tech test: Gilded Rose**](https://github.com/Maby0/gildedRoseTechTest) | A tech test aimed to test ability to refactor legacy code, increasing its readability and ease of implementation. The code is designed to update the quality of items that exist in a shop. | 2 days | JavaScript |
 
 
-## Skills
-
-#### Curious mind
-
-#### Eager to help
-(volunteered to take on 4 mentees when I was 6 weeks into the main course where I 
-
-#### Team player
-(can take the lead and take a step back if needed)
-
 ## Work Experience
 
-**Arad Research** (2018 - 2021)  
+### Arad Research (2018 - 2021)  
 _Administrative Officer_
 
 - Gained in-depth knowledge of MS Excel incorporating the use of VBA macros to streamline data handling and formatting.
@@ -71,10 +61,10 @@ _Administrative Officer_
 - Constructed surveys using various software packages with intricate and complex skip logic.
 - Mediated complex discussions between multiple professionals in line with a commissioned project.
 
-**Treganna Primary School** (2017 to 2018)  
+### Treganna Primary School (2017 to 2018)  
 _Learning Support Assistant_
 
-**Professional Musician** (2016 to 2017) 
+### Professional Musician (2016 to 2017)  
 _Guitarist for professional singer_
 
 - Toured with renowned folk musician, Sian James.
@@ -93,13 +83,12 @@ and Canada.
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-### Aberystwyth University (2012 to 2016)
-
-**MSc Environmental Change, Impact, and Adaptation**
+### Aberystwyth University (September 2012 to September 2016)
+_MSc Environmental Change, Impact, and Adaptation_
 - I produced a dissertation under the tuition of Professor Mark Whitehead on psychological barriers inhibiting effective climate change mitigation, in which I achieved a Merit mark.
 - Two modules required in-depth use of Microsoft Excel, constructing macros on Visual Basic for Applications (VBA) in order to deal with extensive data sets. I found both modules exceptionally rewarding and have been using a variety of the techniques learned here throughout my current employment. 
 
-**BSc Geography**
+_BSc Geography_
 - 2:1
 - The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
