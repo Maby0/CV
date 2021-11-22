@@ -4,7 +4,7 @@ Thanks for visiting my GitHub. [**Click here**](https://mabon-ap-gwyn.herokuapp.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
 
-An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Proficient in JavaScript, Ruby, SQL, and currently learning Python. Well versed in following a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. 
+An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with industry standard experience of working on large-scale projects and meeting client deadlines.
 
 ## Projects
 
@@ -17,13 +17,13 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 
 ## Work Experience
 
-**Arad Research** (2018 - present)  
+**Arad Research** (2018 - 2021)  
 _Administrative Officer_
 
 - Gained in-depth knowledge of MS Excel incorporating the use of VBA macros to streamline data handling and formatting.
 - Conducted a multitude of interviews over the phone playing a key part in project data acquisition.
-- Written methodology chapters and literature reviews for evaluation reports prepared for large-scale clients such as the Welsh Government.
-- Constructed surveys using various software packages with intricate integrated skip logics.
+- Wrote methodology chapters and literature reviews for evaluation reports prepared for large-scale clients such as the Welsh Government.
+- Constructed surveys using various software packages with intricate and complex skip logic.
 - Mediated complex discussions between multiple professionals in line with a commissioned project.
 
 **Treganna Primary School** (2017 to 2018)  
@@ -32,6 +32,11 @@ _Learning Support Assistant_
 **Professional Musician** (2016 to 2017) 
 _Guitarist for professional singer_
 
+- Toured with renowned folk musician, Sian James.
+- Performances of a high quality pristine nature that required dedicated practice and
+commitment to maintain the standard the paying audience had come to expect.
+- Performed abroad in various festivals held in exotic locations, such as Uzbekistan
+and Canada.
 
 ## Education
 
@@ -52,14 +57,9 @@ _Guitarist for professional singer_
 - 2:1
 - The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
-### Any other qualifications
-
-Completed Udemy courses on Python programming.
 
 ## Hobbies
 
 - CodeWars (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
 - Competitive gamer (reached top 1% of European players on multiple games)
-- Footballer
-- Guitarist
-
+- Staying active by attending the gym and playing football
