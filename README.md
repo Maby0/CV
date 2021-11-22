@@ -2,9 +2,15 @@
 
 Thanks for visiting my GitHub. [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) for a link to my portfolio website.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
+### Navigation
+
+[About Me](#about-me) | [Projects](#projects) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
+
+## About Me
 
 An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with industry standard experience of working on large-scale projects and meeting client deadlines.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
 
 ## Projects
 
@@ -16,6 +22,7 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 | [**Noughts and Crosses**](https://github.com/Maby0/Noughts-and-Crosses)      | Classic Noughts and Crosses game. | HTML, CSS, JavaScript |
 | [**Tech test: Bank**](https://github.com/Maby0/bankTechTest) | A tech test undertaken to showcase clean code that logs deposits and withdrawals from a bank account. | JavaScript |
 | [**Tech test: Gilded Rose**](https://github.com/Maby0/gildedRoseTechTest) | A tech test aimed to test ability to refactor legacy code, increasing its readability and ease of implementation. The code is designed to update the quality of items that exist in a shop. | JavaScript |
+
 
 ## Work Experience
 
@@ -39,6 +46,7 @@ _Guitarist for professional singer_
 commitment to maintain the standard the paying audience had come to expect.
 - Performed abroad in various festivals held in exotic locations, such as Uzbekistan
 and Canada.
+
 
 ## Education
 
