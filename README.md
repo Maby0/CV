@@ -35,7 +35,11 @@ Have a look below for a better idea of what I've gotten up to during my time on 
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&hide=stars,issues&theme=merko)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&hide=stars,issues&card_width=200&theme=dark" />
+  </a>
+</div>
 
 
 ## Projects
