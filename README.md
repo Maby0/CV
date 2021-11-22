@@ -68,6 +68,9 @@ _Administrative Officer_
 ### Treganna Primary School (2017 to 2018)  
 _Learning Support Assistant_
 
+- I was responsible for aiding autistic children in their learning in a 1:1 environment. 
+- It required a considerable amount of patience and creative thinking to accommodate for their learning difficulties, and further improve the child’s capacity to learn.
+
 ### Professional Musician (2016 to 2017)  
 _Guitarist for professional singer_
 
@@ -81,6 +84,7 @@ and Canada.
 ## Education
 
 ### Makers Academy (July 2021 to November 2021)
+_Intensive Full Stack Software Engineering Bootcamp_
 - Participated in consistent pair programming and team engineering projects
 - OOP, TDD, MVC, DDD
 - Agile/XP
