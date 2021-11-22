@@ -6,7 +6,7 @@
         <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://mabon-ap-gwyn.herokuapp.com/">
-        <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="https://www.codewars.com/users/Mabyo">
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
@@ -21,12 +21,21 @@
 </div>
 
 
-## About Me
+## Snapshot
 
 An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with industry standard experience of working on large-scale projects and meeting client deadlines.
 
+## My Introduction to Coding
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
+Throughout my life, until the age of 24(!), I had no idea that Software Engineering was a real career choice. When I was in my early teens, being an avid gamer, I’d always mention to my parents how much I wanted to be a game designer (albeit at that point I had no idea what that would actually entail, but my imagination drew me towards the idea of designing worlds, monsters and heroes). However, my school’s curriculum failed to attractively present the world of computer science and all the wonderful metaphorical doors it can open, so I went down a more 'traditional' route of studying Geography. During my Master’s degree in Environmental Science, I was fortunate enough to work on a module that focussed on dealing with data. Here, I was introduced to Visual Basics for Applications. While it all seemed relatively alien to me at the time, it strangely, all seemed to still make sense. It was this module that opened my eyes to coding (apologies for how cliché that sounded).
+
+This decision brought along the idea of completing a coding bootcamp to allow myself to gain a foothold in the tech industry and start building the career I’d always wanted. Makers Academy being one of the most highly regarded and selective bootcamps in the UK, I decided to submit an application. I completed a Ruby course on Codecademy, and introduced myself to Codewars. I started doing Codewars challenges every day, slowly but surely, learning more and more about programming fundamentals (I thoroughly enjoyed my time ‘grinding’ Codewars problems - maybe something to do with my gaming background or maybe I’m just addicted to seeing that green passing text - I’m not sure..). Nevertheless, I (rather proudly) managed to reach 4kuy in a matter of months and was invited to a technical interview with a Makers coach and by some stroke of luck they accepted me onto their August cohort of 2021. Fair to say that I was over the moon that my coding journey had officially began.
+
+Have a look below for a better idea of what I've gotten up to during my time on the course and how my programming ability has developed over the last (rather intense) 3 months.
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&hide=stars,issues&theme=merko)
 
 
 ## Projects
@@ -40,6 +49,16 @@ An aspirational, highly motivated and committed tech enthusiast with a strong fo
 | [**Tech test: Bank**](https://github.com/Maby0/bankTechTest) | A tech test undertaken to showcase clean code that logs deposits and withdrawals from a bank account. | 1 day | JavaScript |
 | [**Tech test: Gilded Rose**](https://github.com/Maby0/gildedRoseTechTest) | A tech test aimed to test ability to refactor legacy code, increasing its readability and ease of implementation. The code is designed to update the quality of items that exist in a shop. | 2 days | JavaScript |
 
+
+## Skills
+
+#### Curious mind
+
+#### Eager to help
+(volunteered to take on 4 mentees when I was 6 weeks into the main course where I 
+
+#### Team player
+(can take the lead and take a step back if needed)
 
 ## Work Experience
 
@@ -67,7 +86,7 @@ and Canada.
 
 ## Education
 
-### Makers Academy (August 2021 to November 2021)
+### Makers Academy (July 2021 to November 2021)
 - Participated in consistent pair programming and team engineering projects
 - OOP, TDD, MVC, DDD
 - Agile/XP
