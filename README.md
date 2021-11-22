@@ -105,4 +105,4 @@ _BSc Geography_
 
 - CodeWars (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
 - Competitive gamer (reached top 1% of European players on multiple games, such as League of Legends, World of Warcraft, StarCraft 2, Call of Duty, Rainbow Six Siege, Fortnite, and Tetris(!))
-- Staying active by attending the gym and playing football
+- Staying active by attending the gym and playing football, reached the top division of the most competitive (non-professional) 5-a-side league in Cardiff.
