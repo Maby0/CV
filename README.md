@@ -1,32 +1,31 @@
-## Mabon ap Gwyn
+# Mabon ap Gwyn
 
-Thanks for visiting my GitHub. [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) for a link to my portfolio website.
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mabon-ap-gwyn-80ab677b/">
+      <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mabon-ap-gwyn.herokuapp.com/">
+      <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/Mabyo">
+      <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+</div>
+<br>
+
+Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
 
 ### Navigation
 
 [About Me](#about-me) | [Projects](#projects) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 
-### Externals
-<div align="center">
-  <a href="https://www.linkedin.com/in/mabon-ap-gwyn-80ab677b/">
-      <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://mabon-ap-gwyn.herokuapp.com/">
-      <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>&nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://mabon-ap-gwyn.herokuapp.com/static/media/Mabon_ap_Gwyn_-_Full_Stack_Developer.488c54ab.pdf">
-      <img src="https://img.shields.io/badge/My CV-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://www.codewars.com/users/Mabyo">
-      <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
-  </a>
-</div>
   
 ## About Me
 
 An aspirational, highly motivated and committed tech enthusiast with a strong foundation in software development and programming principles provided by Makers Academy Bootcamp. Well versed in following an Agile workflow and keeping to a clean and precise Test Driven Development process, utilising personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An excellent team-member with industry standard experience of working on large-scale projects and meeting client deadlines.
 
-### GitHub Statistics
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maby0&show_icons=true&theme=merko)
 
 
