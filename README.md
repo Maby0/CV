@@ -101,9 +101,9 @@ _BSc Geography_
 - The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
 
-## Hobbies
+## Hobbies / Alternative Achievements
 
-- Guitaris, recorded a Welsh language rock album with a band and published the music to Spotify (look up Casset and have a listen!)
-- CodeWars (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
-- Competitive gamer (reached top 1% of European players on multiple games, such as League of Legends, World of Warcraft, StarCraft 2, Call of Duty, Rainbow Six Siege, Fortnite, and Tetris(!))
-- Staying active by attending the gym and playing football, reached the top division of the most competitive (non-professional) 5-a-side league in Cardiff.
+- Guitarist (recorded a Welsh language rock album with a band and published the music to Spotify (look up Casset and have a listen!))
+- CodeWars enthusiast (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
+- Competitive gamer (reached top 1% of European players on multiple games, such as League of Legends, World of Warcraft, StarCraft 2, Call of Duty, Rainbow Six Siege, Fortnite, and TetrisFriends(!))
+- Staying active by attending the gym and playing football (reached the top division of the most competitive (non-professional) 5-a-side league in Cardiff, Wales)
