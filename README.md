@@ -106,4 +106,4 @@ _BSc Geography_
 - Guitarist (recorded a Welsh language rock album with a band and published the music to Spotify (look up Casset and have a listen!))
 - CodeWars enthusiast (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
 - Competitive gamer (reached top 1% of European players on multiple games, such as League of Legends, World of Warcraft, StarCraft 2, Call of Duty, Rainbow Six Siege, Fortnite, and TetrisFriends(!))
-- Staying active by attending the gym and playing football (reached the top division of the most competitive (non-professional) 5-a-side league in Cardiff, Wales)
+- Staying active by attending the gym and playing football (reached the top division of the most competitive (non-professional!) 5-a-side league in Cardiff, Wales)
