@@ -1,23 +1,24 @@
-# Mabon ap Gwyn
-
-<br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/mabon-ap-gwyn-80ab677b/">
-      <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mabon-ap-gwyn.herokuapp.com/">
-      <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.codewars.com/users/Mabyo">
-      <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
-  </a>
+  <h1>Mabon ap Gwyn</h1>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/mabon-ap-gwyn-80ab677b/">
+        <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://mabon-ap-gwyn.herokuapp.com/">
+        <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://www.codewars.com/users/Mabyo">
+        <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
+    </a>
+  </div>
+  <br>
+
+  Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
+
+  [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
+
 </div>
-<br>
-
-Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
-
-[About Me](#about-me) | [Projects](#projects) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
-
 
 
 ## About Me
