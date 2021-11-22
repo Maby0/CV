@@ -86,23 +86,23 @@ and Canada.
 ### Makers Academy (July 2021 to November 2021)
 _Intensive Full Stack Software Engineering Bootcamp_
 - Participated in consistent pair programming and team engineering projects
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object Oriented Principles, Test Driven Development, Model View Controller, Domain Driven Development
+- Methodologies: Agile/XP
+- Languages: Ruby, JavaScript, Python, SQL
+- Frameworks: React, Rails, Django
+- Testing frameworks: RSpec, Capybara, Jasmine
 
 ### Aberystwyth University (September 2012 to September 2016)
 _MSc Environmental Change, Impact, and Adaptation_
-- I produced a dissertation under the tuition of Professor Mark Whitehead on psychological barriers inhibiting effective climate change mitigation, in which I achieved a Merit mark.
-- Two modules required in-depth use of Microsoft Excel, constructing macros on Visual Basic for Applications (VBA) in order to deal with extensive data sets. I found both modules exceptionally rewarding and have been using a variety of the techniques learned here throughout my current employment. 
+- I produced a dissertation under the tuition of Professor Mark Whitehead on psychological barriers inhibiting effective climate change mitigation.
+- Two modules required in-depth use of Microsoft Excel, constructing macros on Visual Basic for Applications (VBA) in order to deal with extensive data sets. I found both modules exceptionally rewarding and have been using a variety of the techniques learned throughout my current employment. 
 
 _BSc Geography_
-- 2:1
 - The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
 
 ## Hobbies
 
 - CodeWars (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
-- Competitive gamer (reached top 1% of European players on multiple games)
+- Competitive gamer (reached top 1% of European players on multiple games, such as League of Legends, World of Warcraft, StarCraft 2, Call of Duty, Rainbow Six Siege, Fortnite, and Tetris(!))
 - Staying active by attending the gym and playing football
