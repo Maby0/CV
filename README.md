@@ -59,15 +59,17 @@ Have a look below for a better idea of what I've gotten up to during my time on 
 #### Attention to detail
 - I’ve always had a keen eye for detail and it played a crucial role in my previous employment with Arad Research. 
 - One of our main clients was the Welsh Government so the data that I would prepare for our reports would be a weighting factor in future policy related decisions, meaning that a high level of attention to detail was absolutely essential.
+- My ability to pick up on precise detail transferred excellently into programming and my journey through Makers. During my pairing sessions, I would often solve blockers by spotting innaccuracies in our code and overcoming errors, allowing us to progress further through the research materials.
+- This skill also became very useful in code refactoring tasks. I'm often able to quickly identify code that is not efficient and able to streamline it accordingly while maintaining full functionality and making future implementation of features much simpler. I invite you to inspect my GildedRose tech test in the project list above where it showcases my refactoring ability.
 
 #### Ability to learn / curious mind
-- Always had a passion to know how things work. During my time with Arad I developed my Excel and VBA skills significantly and purely of my own volition to be able to better manage project data. I was swiftly becoming the office’s ‘Excel guy’.
+- Over the past year, I've developed a keen interest in blockchain technology and cryptocurrencies. As I delved deeper into the subject, I soon realised how complex it was for a newcomer, but my curiosity drove me to obtain a better understanding of the tech. I researched for hours in the evenings to better equip myself in my investments.
+- Always had a passion to know how things work. During my time with Arad I developed my Excel and VBA skills significantly and purely of my own volition in order to better manage project data. I was swiftly becoming the office’s ‘Excel guy’ and was often brought on to various projects that required data handling purely for my Excel/VBA ability.
 - My tendency to want to figure things out became very useful during Makers. Due to the intense nature of the course, we would often only broach certain subjects briefly but my curiosity would always drive me to continue to work into the evenings and during the weekends to ensure I thoroughly understood some of the trickier concepts.
 
 #### Emotional Intelligence / Communication
 - During my employment as an LSA, building rapport with an autistic child in a school setting was a difficult yet essential part of my role. Being able to adapt information and make it accessible is a skill I’ve had to use throughout my career. 
-- This experience and knowledge was very beneficial during Makers
-- E.g. when mentoring individuals on the course, I was able to breakdown the information needed to explain a difficult concept and relay it in a more approachable manner. I was complimented many times on my ability to explain difficult concepts to my peers.
+- - This experience and knowledge was very beneficial during Makers, e.g. when mentoring individuals on the course, I was able to breakdown the information needed to explain a difficult concept and relay it in a more approachable manner. I was complimented many times on my ability to explain difficult concepts to my peers.
 - Additionally, these skills allowed me to build rapport with other members of my engineering team when working under pressure nearing project deadlines.
 
 #### Team player
@@ -79,6 +81,7 @@ Have a look below for a better idea of what I've gotten up to during my time on 
 #### Leadership
 - My work with Arad Research required me to mediate discussions with business owners on changes and proposals issued by local councils (our client). The nature of these discussions were very complex with differing opinions rising across the board. Mediating this discussion required detailed knowledge of the proposals and its implications, in addition to strong leadership. I was able to effectively manage the discussion to ensure productive final conclusions were drawn in order for us to report back to our client.
 - I was able to utilise my experience of leading during my time with Makers when we would have project standups and retros. These meetings would often require some direction and governance to ensure key points were drawn from the discussion. I would often take the lead in these meetings and guide the discussion to maintain productivity and participation by all members.
+- As previously mentioned, I volunteered to take on 4 mentees during the Makers course. I was, and continue to be, the source of guidance for my mentees. I will often join a zoom call with them to discuss and resolve problems that they’re facing, both programming related and otherwise.
 
 ## Work Experience
 
