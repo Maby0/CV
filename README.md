@@ -69,7 +69,7 @@ Have a look below for a better idea of what I've gotten up to during my time on 
 
 #### Emotional Intelligence / Communication
 - During my employment as an LSA, building rapport with an autistic child in a school setting was a difficult yet essential part of my role. Being able to adapt information and make it accessible is a skill I’ve had to use throughout my career. 
-- - This experience and knowledge was very beneficial during Makers, e.g. when mentoring individuals on the course, I was able to breakdown the information needed to explain a difficult concept and relay it in a more approachable manner. I was complimented many times on my ability to explain difficult concepts to my peers.
+- This experience and knowledge was very beneficial during Makers, e.g. when mentoring individuals on the course, I was able to breakdown the information needed to explain a difficult concept and relay it in a more approachable manner. I was complimented many times on my ability to explain difficult concepts to my peers.
 - Additionally, these skills allowed me to build rapport with other members of my engineering team when working under pressure nearing project deadlines.
 
 #### Team player
