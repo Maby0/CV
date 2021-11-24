@@ -54,6 +54,32 @@ Have a look below for a better idea of what I've gotten up to during my time on 
 | [**Tech test: Gilded Rose**](https://github.com/Maby0/gildedRoseTechTest) | A tech test aimed to test ability to refactor legacy code, increasing its readability and ease of implementation. The code is designed to update the quality of items that exist in a shop. | 2 days | JavaScript |
 
 
+## Skills 
+
+#### Attention to detail
+- I’ve always had a keen eye for detail and it played a crucial role in my previous employment with Arad Research. 
+- One of our main clients was the Welsh Government so the data that I would prepare for our reports would be a weighting factor in future policy related decisions, meaning that a high level of attention to detail was absolutely essential.
+
+#### Ability to learn / curious mind
+- Always had a passion to know how things work. During my time with Arad I developed my Excel and VBA skills significantly and purely of my own volition to be able to better manage project data. I was swiftly becoming the office’s ‘Excel guy’.
+- My tendency to want to figure things out became very useful during Makers. Due to the intense nature of the course, we would often only broach certain subjects briefly but my curiosity would always drive me to continue to work into the evenings and during the weekends to ensure I thoroughly understood some of the trickier concepts.
+
+#### Emotional Intelligence / Communication
+- During my employment as an LSA, building rapport with an autistic child in a school setting was a difficult yet essential part of my role. Being able to adapt information and make it accessible is a skill I’ve had to use throughout my career. 
+- This experience and knowledge was very beneficial during Makers
+- E.g. when mentoring individuals on the course, I was able to breakdown the information needed to explain a difficult concept and relay it in a more approachable manner. I was complimented many times on my ability to explain difficult concepts to my peers.
+- Additionally, these skills allowed me to build rapport with other members of my engineering team when working under pressure nearing project deadlines.
+
+#### Team player
+
+- Drawing on my communication skills, I’ve always performed well working as part of a team. During my time with Arad Research, I would often be the sole data analyst for various projects. This would mean that other members of the team would rely on the data that I would prepare to be delivered on time for them to be able to continue to write research findings chapters. As a good team player, I had to ensure my work was finished on time to keep to the project schedule. 
+- During my time at Aberystwyth Uni, I played League of Legends competitively against other universities. The team was built from a selection of the highest ranking players on campus, so we were all strangers when we first started playing. Drawing on my communication and team work skills, we were able to pull together to win games against other universities in a very team-play oriented game.
+- This ability and awareness was very useful during our group’s final project. I worked a lot with our Django backend during development, and many frontend components would often rely on various backend functionalities being operational before being able to be implemented. My past experience of team work drove me to complete these functions in a timely manner to ensure the team kept to our predetermined implementation schedule.
+
+#### Leadership
+- My work with Arad Research required me to mediate discussions with business owners on changes and proposals issued by local councils (our client). The nature of these discussions were very complex with differing opinions rising across the board. Mediating this discussion required detailed knowledge of the proposals and its implications, in addition to strong leadership. I was able to effectively manage the discussion to ensure productive final conclusions were drawn in order for us to report back to our client.
+- I was able to utilise my experience of leading during my time with Makers when we would have project standups and retros. These meetings would often require some direction and governance to ensure key points were drawn from the discussion. I would often take the lead in these meetings and guide the discussion to maintain productivity and participation by all members.
+
 ## Work Experience
 
 ### Arad Research (2018 - 2021)  
