@@ -16,7 +16,7 @@
 
   Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
 
-  [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
+  [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#hobbies-/-alternative-achievements)
 
 </div>
 
