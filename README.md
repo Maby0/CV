@@ -16,7 +16,7 @@
 
   Thanks for visiting my GitHub! [**Click here**](https://mabon-ap-gwyn.herokuapp.com/) or see above for a link to my portfolio and CV.
 
-  [About Me](#snapshot) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#hobbies-/-alternative-achievements)
+  [About Me](#snapshot) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Hobbies](#alternative-achievements-and-hobbies)
 
 </div>
 
@@ -135,7 +135,7 @@ _BSc Geography_
 - The broad and expansive nature of my undergraduate modules aided me significantly in developing effective techniques in report writing, verbal presentations on MS Powerpoint, and dealing with numerical and statistical data on MS Excel, Minitab and ArcGIS. Collectively, they were an essential part of my learning and assisted me throughout my postgraduate degree. 
 
 
-## Hobbies / Alternative Achievements
+## Alternative Achievements and Hobbies
 
 - Guitarist (recorded a Welsh language rock album with a band and published the music to Spotify (look up Casset and have a listen!))
 - CodeWars enthusiast (currently rank 4kyu and in the top 10% of CodeWars members since starting properly in February 2021)
