@@ -7,4 +7,8 @@
     </a>
   </div>
   <br>
+  <p>
+    A highly motivated tech enthusiast, showcasing proven expertise in backend software development, and possessing a seasoned and adept command of multiple cloud platforms. Well versed in following an Agile workflow and keeping to a clean and precise TDD process. An excellent and communicative team-member with proven track record of successfully delivering and maintaining enterprise grade solutions for globally renowned clients.
+  </p>
 </div>
+
